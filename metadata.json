@@ -1,0 +1,6 @@
+{
+  "name": "Aqlli Dars Jadvali",
+  "description": "Talabalar va o'qituvchilar uchun sun'iy intellekt dars jadvalini tuzish va nazorat qilish platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
